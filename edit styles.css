@@ -1,0 +1,38 @@
+css
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+canvas {
+  border: 1px solid #ccc;
+  display: block;
+  margin: 0 auto;
+}
+
+#data-display {
+  text-align: center;
+  font-size: 1.2em;
+}
